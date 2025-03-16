@@ -1,6 +1,6 @@
 # Computer Network
 
-## HW2: TCP Socket Programming
+## hw2: TCP Socket Programming
 Implement a simple network storage system with the following functions:
 - client can list all files in the user folder of the server.
 - client can upload files to the server.
@@ -10,5 +10,5 @@ Implement a simple network storage system with the following functions:
 - User “admin” can unban users.
 - User “admin” can list all banned users.
  
-## HW3: Retransmission & Congestion Control
+## hw3: Retransmission & Congestion Control
 Implement a simple video streaming server using UDP sockets with reliable data transfering and congestion control.
